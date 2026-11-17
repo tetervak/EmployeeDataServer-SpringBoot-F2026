@@ -1,0 +1,84 @@
+{
+  "employees": [
+    {
+      "id": "E001",
+      "firstName": "Adam",
+      "lastName": "Jason",
+      "age": 23,
+      "email": "adam.jason@example.com",
+      "salary": 75000.0,
+      "fullTime": true,
+      "imageFile": "adam_jason.jpeg"
+    },
+    {
+      "id": "E002",
+      "firstName": "Alan",
+      "lastName": "Pereira",
+      "age": 38,
+      "email": "alan.pereira@example.com",
+      "salary": 82000.0,
+      "fullTime": true,
+      "imageFile": "alan_pereira.jpeg"
+    },
+    {
+      "id": "E003",
+      "firstName": "Andrew",
+      "lastName": "Clarkson",
+      "age": 22,
+      "email": "andrew.clarkson@example.com",
+      "salary": 45000.0,
+      "fullTime": false,
+      "imageFile": "andrew_clarkson.jpeg"
+    },
+    {
+      "id": "E004",
+      "firstName": "Jane",
+      "lastName": "Smith",
+      "age": 24,
+      "email": "jane.smith@example.com",
+      "salary": 95000.0,
+      "fullTime": true,
+      "imageFile": "jane_smith.jpeg"
+    },
+    {
+      "id": "E005",
+      "firstName": "Jeremy",
+      "lastName": "Brown",
+      "age": 27,
+      "email": "jeremy.brown@example.com",
+      "salary": 48000.0,
+      "fullTime": false,
+      "imageFile": "jeremy_brown.jpeg"
+    },
+    {
+      "id": "E006",
+      "firstName": "Julia",
+      "lastName": "Volkov",
+      "age": 25,
+      "email": "julia.volkov@example.com",
+      "salary": 78000.0,
+      "fullTime": true,
+      "imageFile": "julia_volkov.jpeg"
+    },
+    {
+      "id": "E007",
+      "firstName": "Maria",
+      "lastName": "Simpson",
+      "age": 33,
+      "email": "maria.simpson@example.com",
+      "salary": 88000.0,
+      "fullTime": true,
+      "imageFile": "maria_simpson.jpeg"
+    },
+    {
+      "id": "E008",
+      "firstName": "Mike",
+      "lastName": "Evans",
+      "age": 34,
+      "email": "mike.evans@example.com",
+      "salary": 42000.0,
+      "fullTime": false,
+      "imageFile": "mike_evans.jpeg"
+    }
+  ]
+}
